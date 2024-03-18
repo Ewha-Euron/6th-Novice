@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/f9bc8b8b3b1e17e08bfe39931e59d6cc07a71605/Euron%EC%B4%88%EA%B8%89%EC%84%B8%EC%85%98_1%EC%A1%B0_1%EC%A3%BC%EC%B0%A8.pdf)
 - 발표자: 1팀(김선향, 정현빈, 권나영, 박혜진)
 - 파머완 1장. 파이썬 기반의 머신러닝과 생태계 이해
   - 머신러닝의 개념
