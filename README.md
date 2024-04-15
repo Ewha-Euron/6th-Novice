@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/abb949b70306ef6a03776912c1ac28e9f88db0c6/Euron%EC%B4%88%EA%B8%89%EC%84%B8%EC%85%98_3%EC%A1%B0_6%EC%A3%BC%EC%B0%A8.pdf)
 - 발표자: 3팀(도하연, 김소은, 황사현, 김수연)
 - 파머완 5장. 회귀(5.1장 ~ 5.8장)
   - 회귀 개요
