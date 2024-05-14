@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/673db12b19bf0a967802a6fbc619d5ba7b19f475/Week10_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 2팀(이채원, 문원정, 조주현, 김정은)
 - 파머완 6장. 차원축소(6.1 ~ 6.5장)
   - PCA
