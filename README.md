@@ -1,7 +1,7 @@
 # 6th-Novice
 
 ## 📢 발표 안내
-- [발표 자료]()
+- [발표 자료](https://github.com/Ewha-Euron/6th-Novice/blob/cff54780a82d56d357c96e70d387fac8cde631fa/Week12_%EC%B4%88%EA%B8%89%201%ED%8C%80%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C.pdf)
 - 발표자: 1팀(김선향, 정현빈, 권나영, 박혜진)
 - 파머완 8장. 텍스트 분석(8.1 ~ 8.3, 8.5장)
   - 텍스트 분석 이해
